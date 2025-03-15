@@ -28,6 +28,7 @@
     "Python.input_two_numbers_print_quotient_with_decimals.executor": "Run",
     "Python.input_two_numbers_print_smaller_number.executor": "Run",
     "Python.input_two_numbers_print_sum.executor": "Run",
+    "Python.print_even_numbers_from_1_to_100.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Batch1"
   }
