@@ -5,24 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1595538-c703-413a-9c94-bd1ee9c18667" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/basic_math_programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_ten_numbers_minus_to_next_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_ten_numbers_print_amount_of_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_if_not_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_numbers_in_between.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_quotient_without_decimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_smaller_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_the_decimal_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_numbers_from_1_to_100_except_ending_in_zero_or_five.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_odd_numbers_from_1_to_100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2uJJuqIVR3SeZ0GBsP9juUC6f1c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,8 +44,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.input_ten_numbers_minus_to_next_numbers.executor": "Run",
+    "Python.input_ten_numbers_print_all_even.executor": "Run",
+    "Python.input_two_numbers_print_numbers_in_between.executor": "Run",
+    "Python.print_numbers_from_1_to_100_except_ending_in_zero_or_five.executor": "Run",
+    "Python.print_odd_numbers_from_1_to_100.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "Batch2"
   }
 }]]></component>
   <component name="SharedIndexes">
