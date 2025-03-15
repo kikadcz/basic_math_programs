@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1595538-c703-413a-9c94-bd1ee9c18667" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/identify_if_unique_or_duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identify_if_number_is_unique_or_duplicate_then_print_lowest_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.identify_if_unique_or_duplicate.executor": "Run",
     "Python.input_ten_numbers_print_first_duplicate_number.executor": "Run",
     "Python.input_ten_numbers_print_unduplicated_numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
