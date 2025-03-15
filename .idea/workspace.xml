@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1595538-c703-413a-9c94-bd1ee9c18667" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_quotient_with_decimals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_two_numbers_print_the_answer_of_raised_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.input_two_numbers_print_product.executor": "Run",
+    "Python.input_two_numbers_print_quotient_with_decimals.executor": "Run",
     "Python.input_two_numbers_print_smaller_number.executor": "Run",
     "Python.input_two_numbers_print_sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
